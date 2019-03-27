@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - stringToInt",
+            "request": "launch",
+            "mainClass": "stringToInt",
+            "projectName": "Practice_3612f09a"
+        }
+    ]
+}
